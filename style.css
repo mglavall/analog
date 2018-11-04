@@ -40,6 +40,11 @@ img {
   top: -90px;
   color: rgba(0, 0, 0, 0.84);
 }
+
+.first-photo {
+  margin-top: 200px;
+}
+
 *,
 *:before,
 *:after {
